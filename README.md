@@ -1,16 +1,61 @@
-# React + Vite
+# 🧠 DevLog Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> *A minimalist React app to capture your daily developer learnings, wins, and reflections — built for growth-minded coders.*
 
-Currently, two official plugins are available:
+[![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-^7.0-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-181717?style=flat&logo=github)](https://kic8462852b.github.io/devlog-journal/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+### 🌐 **Live Demo**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 [https://kic8462852b.github.io/devlog-journal/](https://kic8462852b.github.io/devlog-journal/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📖 About
+
+**DevLog Journal** is a personal productivity tool for developers.  
+It allows you to write short daily entries about what you learned, accomplished, or debugged.  
+All entries are stored automatically in your browser — no database required.
+
+This project demonstrates:
+- React component architecture  
+- Dynamic state management  
+- Event handling (form, buttons, search)  
+- Deployment workflow using GitHub Pages  
+
+It was built as part of the **Tier 1: Beginner Frontend** criteria for *Chingu*.
+
+---
+
+## 🧩 Features
+
+✅ Add new daily logs  
+✅ Delete individual entries  
+✅ Search through past logs  
+✅ Clear all entries  
+✅ Auto-save using `localStorage`  
+✅ Fully responsive dark UI  
+✅ Custom emoji favicon 🧠  
+✅ SEO-ready metadata  
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|-----------|--------|
+| **Framework** | [React 19](https://react.dev/) |
+| **Build Tool** | [Vite 7](https://vitejs.dev/) |
+| **Styling** | Custom CSS (Flexbox + Grid) |
+| **Hosting** | [GitHub Pages](https://pages.github.com/) |
+| **Version Control** | Git + GitHub |
+| **Package Manager** | npm |
+
+---
+
+## 📁 Project Structure
+
