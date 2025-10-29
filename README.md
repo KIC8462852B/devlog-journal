@@ -57,5 +57,3 @@ It was built as part of the **Tier 1: Beginner Frontend** criteria for *Chingu*.
 
 ---
 
-## 📁 Project Structure
-
